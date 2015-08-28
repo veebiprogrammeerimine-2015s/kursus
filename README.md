@@ -8,6 +8,10 @@
     *  Loo [Issue](https://github.com/veebiprogrammeerimine-2015s/kursus/issues)
    * Kirjuta [email](mailto:romilr@tlu.ee) - 1:1 abi
 
+## Kodused tööd ja projektid
+
+Kõik kodused tööd on välja toodud [Kursus](#Kursus) tundide loendis.
+
 ### GitHub'i töövoog
 
 1. *Fork*'i ülesande/projekti repositoorium (leiab [github.com/veebiprogrammeerimine-2015s](https://github.com/veebiprogrammeerimine-2015s)).
@@ -20,6 +24,18 @@
 
 Tagasisidet saab otse *pull request*'i millele ootan Sinupoolseid kommentaare/mõtteid/küsimusi. Võid julgselt avada *pull request*'i kohe kui hakkad kodutöö kallal tegelama ja siis kui hätta jääd võid esitada sinna küsimuse. Maini kommentaaris minu kasutajat `@romilrobtsenkov` siis jõuan sellele kiiremini vastata.
 
+### Nõuded
+
+Need rakenduvad ka päris elus!
+
+* Peab järgma "head programmeerimise stiili"
+    * Muutujate nimed peavad kirjeldama muutujat ning peavad olema inglise keeles
+    * Funktsiooni nimi peab olema "lühike"
+    * Optimeeritud koodi lugemiseks
+    * Projektide jaoks tuleb kasutada objektorienteeritud lähenemist
+    * Laenatud koodile tuleb viidata
+* Boonuspunktid:
+    * Loomingulisus (nb! nõuded peavad olema täidetud)
 
 ## Kursus
 
