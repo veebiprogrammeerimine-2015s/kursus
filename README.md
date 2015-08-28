@@ -1,7 +1,7 @@
 # Veebiprogrammeerimine sügis 2015
 
 * **Kursuseprogramm:** [IFI6076](https://www.tlu.ee/et/informaatika/oppetoo/Kursuseprogrammid)
-* **Õpetaja:** Romil Rõbtšenkov, [romil@tlu.ee](mailto:romil@tlu.ee)
+* **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Vajad abi?**
     * [![Join the chat at https://gitter.im/veebiprogrammeerimine-2015s/kursus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veebiprogrammeerimine-2015s/kursus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
         * Saad suhelda kaasüliõpilastega saates neile sõnumi koodijupiga, võid sõnumi kirjutada ka siis kui ühtegi aktiivset kasutajat ei ole.
