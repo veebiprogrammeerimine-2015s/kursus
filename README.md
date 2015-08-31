@@ -20,12 +20,30 @@ Kõik kodused tööd on välja toodud [Kursus](#Kursus) tundide loendis.
 ### GitHub'i töövoog
 
 1. *Fork*'i ülesande/projekti repositoorium (leiab [github.com/veebiprogrammeerimine-2015s](https://github.com/veebiprogrammeerimine-2015s)).
-1. *Clone*'i repositoorium enda arvutisse/serverisse.
-1. Muuda faile ülesande lahendamiseks.
+1. *Clone*'i see repositoorium enda arvutisse/serverisse ja määra repositooriumi URL kuhu edaspidi muudatusi salvestad.
+```
+git clone https://github.com/USERNAME/REPOSITORY.git
+```
+```
+git remote set-url origin https://USERNAME@github.com/USERNAME/REPOSITORY.git
+```
+1. Muuda faile ülesande lahendamiseks ja *Commit*'i iga olulisem muudatus, kasutades kahte käsku.
+```
+git add .
+```
+```
+git commit -m "Added this functionality to the app"
+```
 1. Veendu, et kogu kood on *Commit*'itud.
+```
+git status
+```
 1. *Push/sync*'i GitHub'i.
+```
+git push origin
+```
 1. [Ava *pull request*](https://help.github.com/articles/creating-a-pull-request) ülesande originaalses repositooriumis. Ülesannete tähtajaks on järgmise tunni algus, kui pole teisiti kirjas.
-1. Muudatusi ja täiendusi võib *push*ída repositooriumisse, kuni ette antud  kuupäevani.
+1. Muudatusi ja täiendusi võib *push*'ida repositooriumisse, kuni ette antud  kuupäevani.
 
 Tagasisidet saab otse *pull request*'i millele ootan Sinupoolseid kommentaare/mõtteid/küsimusi. Võid julgselt avada *pull request*'i kohe kui hakkad kodutöö kallal tegelama ja siis kui hätta jääd võid esitada sinna küsimuse. Maini kommentaaris minu kasutajat `@romilrobtsenkov` siis jõuan sellele kiiremini vastata.
 
