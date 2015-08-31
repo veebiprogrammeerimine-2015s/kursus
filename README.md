@@ -2,6 +2,9 @@
 
 * **Kursuseprogramm:** [IFI6076](https://www.tlu.ee/et/informaatika/oppetoo/Kursuseprogrammid)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
+* **Testserver:** greeny.cs.tlu.ee, [tunneli loomise juhend](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/09/veebipr/naited/greenytunnel/greenytunnel.pdf)
+* **Stiilijuhend:** [Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
+* **GIT õpetus:** [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 * **Vajad abi?**
     * [![Join the chat at https://gitter.im/veebiprogrammeerimine-2015s/kursus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veebiprogrammeerimine-2015s/kursus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
         * Saad suhelda kaasüliõpilastega saates neile sõnumi koodijupiga, võid sõnumi kirjutada ka siis kui ühtegi aktiivset kasutajat ei ole.
