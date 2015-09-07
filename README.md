@@ -4,7 +4,7 @@
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** greeny.cs.tlu.ee, [tunneli loomise juhend](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/09/veebipr/naited/greenytunnel/greenytunnel.pdf)
 * **Tunni näited testserververis:** ~romil/if15
-* **Rühmad:** [I rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=I+r%C3%BChm), [II rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=II+r%C3%BChm), [III rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=III+r%C3%BChm)
+* **Rühmad:** [I rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=I-ruhm), [II rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=II-ruhm), [III rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=III-ruhm)
 * **Stiilijuhend:** [Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
 * **GIT õpetus:** [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 * **Vajad abi?**
@@ -62,7 +62,7 @@ Need rakenduvad ka päris elus!
 
 ## Kursus
 
-### 1 Tund
+### 1 tund
 
 1. Sissejuhatus
     * Arutleme, mis antud kursus endas hõlmab
@@ -76,6 +76,18 @@ Need rakenduvad ka päris elus!
 1. GitHub töövoog
     * Räägime läbi GitHub'i töövoo
     * Tee *pull request* repositooriumi [opilased](https://github.com/veebiprogrammeerimine-2015s/opilased)
+
+### 2 tund
+
+1. Alustame koodikirjutamist
+    * muutujad, loogika, tsüklid, kuupäev
+    * HTML vorm ja selle valideerimine
+1. Abimaterjal
+    * [PHP 5 Form Handling] (http://www.w3schools.com/php/php_forms.asp)
+    * ...
+    * [PHP 5 Form Complete] (http://www.w3schools.com/php/php_form_complete.asp)
+1. Kodutöö
+    * [1. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=1.kodutoo)
 
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
