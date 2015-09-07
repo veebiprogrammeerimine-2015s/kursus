@@ -22,10 +22,7 @@ Kõik kodused tööd on välja toodud [Kursus](#Kursus) tundide loendis.
 1. *Fork*'i ülesande/projekti repositoorium (leiab [github.com/veebiprogrammeerimine-2015s](https://github.com/veebiprogrammeerimine-2015s)).
 1. *Clone*'i see repositoorium enda arvutisse/serverisse ja määra repositooriumi URL kuhu edaspidi muudatusi salvestad.
   ```
-  git clone https://github.com/USERNAME/REPOSITORY.git
-  ```
-  ```
-  git remote set-url origin https://USERNAME@github.com/USERNAME/REPOSITORY.git
+  git clone https://USERNAME@github.com/USERNAME/REPOSITORY.git
   ```
 1. Muuda faile ülesande lahendamiseks ja *Commit*'i iga olulisem muudatus, kasutades kahte käsku.
   ```
