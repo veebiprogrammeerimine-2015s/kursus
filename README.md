@@ -4,7 +4,7 @@
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** greeny.cs.tlu.ee, [tunneli loomise juhend](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/09/veebipr/naited/greenytunnel/greenytunnel.pdf)
 * **Tunni näited testserververis:** ~romil/if15
-* **Rühmad:** [I rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=I-ruhm), [II rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=II-ruhm), [III rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=III-ruhm)
+* **Rühmad:** [I rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=-I-ruhm), [II rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=-II-ruhm), [III rühm](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=-III-ruhm)
 * **Stiilijuhend:** [Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
 * **GIT õpetus:** [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 * **Vajad abi?**
