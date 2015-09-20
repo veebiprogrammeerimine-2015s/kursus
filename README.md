@@ -92,5 +92,22 @@ Need rakenduvad ka päris elus!
 1. Täiendame kasutaja sisselogimise vormi
 1. Igaüks loob endale lehestiku  
 
+### 4 tund
+
+1. Andmebaasi ühenduse loomine
+    * [gitignore] (https://help.github.com/articles/ignoring-files/)
+1. Andmebaasi andmete lisamine ja sealt andmete küsimine.
+1. Kasutame näidistabelit
+```PLSQL
+CREATE TABLE user_sample (
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	email VARCHAR(255) NOT NULL,
+	password VARCHAR(128),
+	created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+	UNIQUE(email)
+);
+```
+1. Igaüks rakendab tunnis õpitut oma rakenduses
+
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
