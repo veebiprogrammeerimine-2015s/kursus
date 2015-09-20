@@ -97,7 +97,7 @@ Need rakenduvad ka päris elus!
 1. Andmebaasi ühenduse loomine
     * [gitignore] (https://help.github.com/articles/ignoring-files/)
 1. Andmebaasi andmete lisamine ja sealt andmete küsimine.
-1. Kasutame näidistabelit ja igaüks rakendab tunnis õpitut oma rakenduses
+1. Kasutame näidistabelit ja igaüks rakendab tunnis õpitut oma rakenduses, kes ei jõua teeb kodus [2. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=2.kodutoo)
 ```PLSQL
 CREATE TABLE user_sample (
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
