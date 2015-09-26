@@ -109,5 +109,20 @@ CREATE TABLE user_sample (
 );
 ```
 
+### 5 tund
+
+1. Kasutaja sessioonis hoidmine ja välja logimine.
+1. Andmebaasi andmete lisamine ja sealt andmete küsimine.
+1. Lisame andmet ja näitame tabeli kujul, andmete muutmine. Kasutame eelmise tunni tabeliga seotud uut tabelit. Vajadusel abiks (SQL FOREIGN KEY Constraint)[http://www.w3schools.com/sql/sql_foreignkey.asp]
+```PLSQL
+REATE TABLE car_plates (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  user_id INT NOT NULL,
+  number_plate VARCHAR(200),   
+  color TEXT,
+  FOREIGN KEY (user_id) REFERENCES user_sample(id)
+);
+```
+
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
