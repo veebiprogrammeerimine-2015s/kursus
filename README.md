@@ -115,7 +115,7 @@ CREATE TABLE user_sample (
 1. Andmebaasi andmete lisamine ja sealt andmete küsimine.
 1. Lisame andmet ja näitame tabeli kujul, andmete muutmine. Kasutame eelmise tunni tabeliga seotud uut tabelit. Vajadusel abiks (SQL FOREIGN KEY Constraint)[http://www.w3schools.com/sql/sql_foreignkey.asp]
 ```PLSQL
-REATE TABLE car_plates (
+CREATE TABLE car_plates (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   user_id INT NOT NULL,
   number_plate VARCHAR(200),   
