@@ -124,5 +124,27 @@ CREATE TABLE car_plates (
 );
 ```
 
+### 6 tund
+
+1. Funktsioonid eraldi failis
+1. Andmete tabeli kujul kuvamine, kustutamine (st arhiveerimine) ja muutmine
+1. Eraldi fail andmebaasi ühenduse andmete hoiustamiseks
+```PHP
+// configglobal.php
+  $servername = "localhost"; // ab
+  $server_username = ""; // ab'i kasutajanimi
+  $server_password = ""; // ab'i parool
+```
+
+### 7 tund
+
+1. Andmete muutmine ja otsimine eelmise tunni näitel
+1. Igaüks teeb vastavalt oma ideele koduse töö [3. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=3.kodutoo)
+
+### 8 tund
+
+1. Erinevad näited lihtsamatest PHP koodijuppidest `function`, `$_SESSION` jm
+1. [3. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=3.kodutoo) lõpetamine ja täiendamine
+
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
