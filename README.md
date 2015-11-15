@@ -146,5 +146,26 @@ CREATE TABLE car_plates (
 1. Erinevad näited lihtsamatest PHP koodijuppidest `function`, `$_SESSION` jm
 1. [3. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=3.kodutoo) lõpetamine ja täiendamine
 
+### 9 tund
+1. 5.tunni sisselogimise paigutamine eraldi klassi.
+1. Piltide üleslaadimine [PHP 5 File Upload](http://www.w3schools.com/php/php_file_upload.asp) näitel.
+
+### 10 tund
+1. Tabelite sidumine. Tegime uued tabelid kasutajate huvialade jaoks (oluline, et oleks olemas varasem tabel user_sample) ja uue klassi kasutaja huvialade haldamiseks.
+```PLSQL
+CREATE TABLE IF NOT EXISTS `interests` (
+  `id` int(11) NOT NULL,
+  `name` varchar(255) NOT NULL
+)
+
+CREATE TABLE IF NOT EXISTS `user_interests` (
+  `id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `interests_id` int(11) NOT NULL,
+  FOREIGN KEY (user_id) REFERENCES user_sample(id),
+  FOREIGN KEY (interests_id) REFERENCES interests(id)
+)
+```
+
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
