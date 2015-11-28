@@ -168,9 +168,35 @@ CREATE TABLE IF NOT EXISTS `user_interests` (
 ```
 
 ### 11 tund
-1. Rühmatöö nõuete tutvustamine []()
+1. Rühmatöö nõuete tutvustamine [php-ruhmatoo-projekt](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt)
 1. Git koostöös koodi kirjutamisel [Become a git guru](https://www.atlassian.com/git/tutorials/)
-1. Klassiskeemid?
+
+## 12 tund
+1. Bootstrap raamistiku tutvustamine [getbootstrap.com](http://getbootstrap.com)
+1. Bootstrap studio [Bootstrap Studio](https://bootstrapstudio.io)
+
+# Rühmatöö projektid
+
+[#1](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/1) **[Noorte tööbörs](https://github.com/Raunts26/php-ruhmatoo-projekt)** liikmed: [@Raunts26](https://github.com/Raunts26)
+[#2](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/2) **[JOOKS24](https://github.com/karlmarkuswahlberg/php-ruhmatoo-projekt)** liikmed: [@karlmarkuswahlberg](https://github.com/karlmarkuswahlberg), [@katariinal](https://github.com/katariinal)
+[#3](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/3) **[Multirootor](https://github.com/Jaanmk/php-ruhmatoo-projekt)** liikmed: [@jissepo](https://github.com/jissepo), [@Jaanmk](https://github.com/Jaanmk)
+[#4](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/4) **[Mikid](https://github.com/p6hjanaba/php-ruhmatoo-projekt)** liikmed: [@p6hjanaba](https://github.com/p6hjanaba), [@oleloigu](https://github.com/oleloigu), [@aantsman](https://github.com/aantsman)
+[#5](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/5) **[TelliMindTööandja](https://github.com/naaber/php-ruhmatoo-projekt)** liikmed: [@naaber](https://github.com/naaber), [@merit26](https://github.com/merit26)
+[#6](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/6) **[PollNet](https://github.com/stenverkoop/php-ruhmatoo-projekt)** liikmed: [@rasmusreichardt](https://github.com/rasmusreichardt), [@stenverkoop](https://github.com/stenverkoop), [@Brandiit](https://github.com/Brandiit)
+[#7](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/7) **[Rate my professor](https://github.com/raikolepik/php-ruhmatoo-projekt)** liikmed: [@raikolepik](https://github.com/raikolepik), [@evilyeti89](https://github.com/evilyeti89), [@Raunts26](https://github.com/Raunts26)
+[#8](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/8) **[Loomakliinik](https://github.com/jormkop/php-ruhmatoo-projekt)** liikmed: [@helenpuhu](https://github.com/helenpuhu), [@aivarus](https://github.com/aivarus), [@jormkop](https://github.com/jormkop)
+[#9](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/9) **[Videolaenutus](https://github.com/Dralun/php-ruhmatoo-projekt)** liikmed: [@Dralun](https://github.com/Dralun), [@tom07140](https://github.com/tom07140)
+[#10](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/10) **[Foorum](https://github.com/MartinViidik/php-ruhmatoo-projekt)** liikmed: [@MartinViidik](https://github.com/MartinViidik), [@jalalaba](https://github.com/jalalaba)
+[#11](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/11) **[FOOTBALL FORUM](https://github.com/raoulkirsima/php-ruhmatoo-projekt)** liikmed: [@arkawa7](https://github.com/arkawa7), [@raoulkirsima](https://github.com/raoulkirsima), [@mikkmae](https://github.com/mikkmae)
+[#12](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/12) **[Phottle](https://github.com/ReioRaudheiding/php-ruhmatoo-projekt)** liikmed: [@matthias96](https://github.com/matthias96), [@ReioRaudheiding](https://github.com/ReioRaudheiding)
+[#13](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/13) **[Projekt Eesti Post](https://github.com/earist/php-ruhmatoo-projekt)** liikmed: [@janekos](https://github.com/janekos), [@RuziGg](https://github.com/RuziGg), [@earist](https://github.com/earist)
+[#14](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/14) **[ListIt](https://github.com/hendrikseemen/php-ruhmatoo-projekt)** liikmed: [@hendrikseemen](https://github.com/hendrikseemen), [@kar1ns](https://github.com/kar1ns),
+[#15](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/15) **[Üli-Kool](https://github.com/Ken299/php-ruhmatoo-projekt)** liikmed:[@Ken299](https://github.com/Ken299), [@JSiil](https://github.com/JSiil), [@KaarelTurkson](https://github.com/KaarelTurkson)
+[#16](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/16) **[Discgolf](https://github.com/Koidu/php-ruhmatoo-projekt)** liikmed: [@jarmhab](https://github.com/jarmhab/), [@sizenn](https://github.com/sizenn/), [@Koidu](https://github.com/Koidu)
+[#17](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/17) **[Arstiaja broneerimine](https://github.com/rimo9/php-ruhmatoo-projekt)** liikmed: [@rimo9](https://github.com/rimo9), [@lutsandre](https://github.com/lutsandre), [@ardobirk](https://github.com/ardobirk)
+[#18](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/18) **[Estonian muscle](https://github.com/kertkulp/php-ruhmatoo-projekt)** liikmed: [@kertkulp](https://github.com/kertkulp) ,[@janilv](https://github.com/janilv), [@ArthurDavid](https://github.com/ArthurDavid)
+[#19](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/19) **[TECHMASTER](https://github.com/Max1mov/php-ruhmatoo-projekt)** liikmed: [@Max1mov](https://github.com/Max1mov), [@katariin](https://github.com/katariin), [@kuznetsovatatjana](https://github.com/kuznetsovatatjana)
+[#20](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/20) **[?](https://github.com/kkkaur/php-ruhmatoo-projekt)** liikmed: [@kkkaur](https://github.com/kkkaur), [@koitkorela](https://github.com/koitkorela), [@TaunoLainevool](https://github.com/TaunoLainevool)
 
 ## Litsents
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Käesolev <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">leht</span> ja kõik teised https://github.com/veebiprogrammeerimine-2015s materjalid on <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Litsensiga</a>.
