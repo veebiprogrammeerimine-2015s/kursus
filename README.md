@@ -178,6 +178,7 @@ CREATE TABLE IF NOT EXISTS `user_interests` (
 # Rühmatöö projektid
 
 [#1](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/1) **[Noorte tööbörs](https://github.com/Raunts26/php-ruhmatoo-projekt)** liikmed: [@Raunts26](https://github.com/Raunts26)
+
 [#2](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/2) **[JOOKS24](https://github.com/karlmarkuswahlberg/php-ruhmatoo-projekt)** liikmed: [@karlmarkuswahlberg](https://github.com/karlmarkuswahlberg), [@katariinal](https://github.com/katariinal)
 [#3](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/3) **[Multirootor](https://github.com/Jaanmk/php-ruhmatoo-projekt)** liikmed: [@jissepo](https://github.com/jissepo), [@Jaanmk](https://github.com/Jaanmk)
 [#4](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/4) **[Mikid](https://github.com/p6hjanaba/php-ruhmatoo-projekt)** liikmed: [@p6hjanaba](https://github.com/p6hjanaba), [@oleloigu](https://github.com/oleloigu), [@aantsman](https://github.com/aantsman)
