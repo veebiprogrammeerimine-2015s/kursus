@@ -175,6 +175,12 @@ CREATE TABLE IF NOT EXISTS `user_interests` (
 1. Bootstrap raamistiku tutvustamine [getbootstrap.com](http://getbootstrap.com)
 1. Bootstrap studio [Bootstrap Studio](https://bootstrapstudio.io)
 
+## 13 tund
+1. Lülita sisse Issues oma rühma repositooriumis (Settings > Issues) (vt WordPress uus admin paneel [wp-calypso](https://github.com/Automattic/wp-calypso/issues))
+1. Täienda oma projekti README.MD faili, lisades juurde eeldatava failipuu ( nt [1](http://jekyllrb.com/docs/structure/), [2](https://github.com/samlanning/tree.py/blob/master/README.md), [3](http://mama.indstate.edu/users/ice/tree/)), mida pärast jooksvalt täiendad.
+1. Täienda oma rühma README.MD faili, et see näeks viisakas välja
+1. Vaata üle [Veebirakenduste loomine PHP ja MySQLi abil](http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebipr/veebipr1.pdf) materjal ja seal esitatud näited
+
 # Rühmatöö projektid
 
 [#1](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/1) **[Noorte tööbörs](https://github.com/Raunts26/php-ruhmatoo-projekt)** liikmed: [@Raunts26](https://github.com/Raunts26)  
