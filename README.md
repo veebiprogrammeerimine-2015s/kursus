@@ -170,6 +170,51 @@ CREATE TABLE IF NOT EXISTS `user_interests` (
 ### 11 tund
 1. Rühmatöö nõuete tutvustamine [php-ruhmatoo-projekt](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt)
 1. Git koostöös koodi kirjutamisel [Become a git guru](https://www.atlassian.com/git/tutorials/)
+1. Näide
+```
+// Uue branch'i loomine
+git branch uue_branchi_nimi
+
+// branch'ide vahel liikumine
+git checkout branchi_nimi
+
+// NÄIDE
+git branch romil
+git checkout romil
+
+// salvestan tehtud muudatused (vajadusel kordan)
+git add .
+git commit -m "Changed index file"
+
+// (ainult siis kui pole ennem sellele branch'ile midagi salvestanud)
+git push origin romil
+
+// kui kõik on valmis lähen masteri branch'ile
+git checkout master
+
+// küsin igaks uuendused GitHub'is master branch'i muudatused
+git pull origin master
+
+// (juhul kui automaatne merge ebaõnnestub, tuleb vaadata conflict'ised failid üle ja neid uuesti salvestada)
+git add .
+git commit -m "Changed index file"
+
+// salvestan oma branchi masterile juurde
+git merge romil
+
+// (juhul kui automaatne merge ebaõnnestub, tuleb vaadata conflict'ised failid üle ja neid uuesti salvestada)
+git add .
+git commit -m "Changed index file"
+
+// salvestan GitHub'i master branch'i
+git push
+
+// lähen oma branchile ja uuendan seda master branch'ilt
+git checkout romil
+git pull origin master
+
+//jätkan tööd
+```
 
 ## 12 tund
 1. Bootstrap raamistiku tutvustamine [getbootstrap.com](http://getbootstrap.com)
