@@ -225,6 +225,7 @@ git pull origin master
 1. Täienda oma projekti README.MD faili, lisades juurde eeldatava failipuu ( nt [1](http://jekyllrb.com/docs/structure/), [2](https://github.com/samlanning/tree.py/blob/master/README.md), [3](http://mama.indstate.edu/users/ice/tree/)), mida pärast jooksvalt täiendad.
 1. Täienda oma rühma README.MD faili, et see näeks viisakas välja
 1. Vaata üle [Veebirakenduste loomine PHP ja MySQLi abil](http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebipr/veebipr1.pdf) materjal ja seal esitatud näited
+1. Olge ettevaatlikud aga vajadusel saab kasutada seda, kasuta ainult siis kui tead mis see teeb [Changing author info](https://help.github.com/articles/changing-author-info/)
 
 # Rühmatöö projektid
 
