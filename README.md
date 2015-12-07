@@ -60,7 +60,7 @@ Need rakenduvad ka päris elus!
 
 ## Kursus
 
-### 1 tund
+### 1. tund
 
 1. Sissejuhatus
     * Arutleme, mis antud kursus endas hõlmab
@@ -75,7 +75,7 @@ Need rakenduvad ka päris elus!
     * Räägime läbi GitHub'i töövoo
     * Tee *pull request* repositooriumi [opilased](https://github.com/veebiprogrammeerimine-2015s/opilased)
 
-### 2 tund
+### 2. tund
 
 1. Alustame koodikirjutamist
     * muutujad, loogika, tsüklid, kuupäev
@@ -87,13 +87,13 @@ Need rakenduvad ka päris elus!
 1. Kodutöö
     * [1. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=1.kodutoo)
 
-### 3 tund
+### 3. tund
 
 1. Loome lehestiku eri faili osadest: päis, jalus
 1. Täiendame kasutaja sisselogimise vormi
 1. Igaüks loob endale lehestiku  
 
-### 4 tund
+### 4. tund
 
 1. Andmebaasi ühenduse loomine
     * [gitignore] (https://help.github.com/articles/ignoring-files/)
@@ -109,7 +109,7 @@ CREATE TABLE user_sample (
 );
 ```
 
-### 5 tund
+### 5. tund
 
 1. Kasutaja sessioonis hoidmine ja välja logimine.
 1. Andmebaasi andmete lisamine ja sealt andmete küsimine.
@@ -124,7 +124,7 @@ CREATE TABLE car_plates (
 );
 ```
 
-### 6 tund
+### 6. tund
 
 1. Funktsioonid eraldi failis
 1. Andmete tabeli kujul kuvamine, kustutamine (st arhiveerimine) ja muutmine
@@ -136,21 +136,21 @@ CREATE TABLE car_plates (
   $server_password = ""; // ab'i parool
 ```
 
-### 7 tund
+### 7. tund
 
 1. Andmete muutmine ja otsimine eelmise tunni näitel
 1. Igaüks teeb vastavalt oma ideele koduse töö [3. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=3.kodutoo)
 
-### 8 tund
+### 8. tund
 
 1. Erinevad näited lihtsamatest PHP koodijuppidest `function`, `$_SESSION` jm
 1. [3. kodutöö](https://github.com/veebiprogrammeerimine-2015s?utf8=%E2%9C%93&query=3.kodutoo) lõpetamine ja täiendamine
 
-### 9 tund
+### 9. tund
 1. 5.tunni sisselogimise paigutamine eraldi klassi.
 1. Piltide üleslaadimine [PHP 5 File Upload](http://www.w3schools.com/php/php_file_upload.asp) näitel.
 
-### 10 tund
+### 10. tund
 1. Tabelite sidumine. Tegime uued tabelid kasutajate huvialade jaoks (oluline, et oleks olemas varasem tabel user_sample) ja uue klassi kasutaja huvialade haldamiseks.
 ```PLSQL
 CREATE TABLE IF NOT EXISTS `interests` (
@@ -167,7 +167,7 @@ CREATE TABLE IF NOT EXISTS `user_interests` (
 )
 ```
 
-### 11 tund
+### 11. tund
 1. Rühmatöö nõuete tutvustamine [php-ruhmatoo-projekt](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt)
 1. Git koostöös koodi kirjutamisel [Become a git guru](https://www.atlassian.com/git/tutorials/)
 1. Näide
@@ -216,16 +216,58 @@ git pull origin master
 //jätkan tööd
 ```
 
-## 12 tund
+## 12. tund
 1. Bootstrap raamistiku tutvustamine [getbootstrap.com](http://getbootstrap.com)
 1. Bootstrap studio [Bootstrap Studio](https://bootstrapstudio.io)
 
-## 13 tund
+## 13. tund
 1. Lülita sisse Issues oma rühma repositooriumis (Settings > Issues) (vt WordPress uus admin paneel [wp-calypso](https://github.com/Automattic/wp-calypso/issues))
 1. Täienda oma projekti README.MD faili, lisades juurde eeldatava failipuu ( nt [1](http://jekyllrb.com/docs/structure/), [2](https://github.com/samlanning/tree.py/blob/master/README.md), [3](http://mama.indstate.edu/users/ice/tree/)), mida pärast jooksvalt täiendad.
 1. Täienda oma rühma README.MD faili, et see näeks viisakas välja
 1. Vaata üle [Veebirakenduste loomine PHP ja MySQLi abil](http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebipr/veebipr1.pdf) materjal ja seal esitatud näited
 1. Olge ettevaatlikud aga vajadusel saab kasutada seda, kasuta ainult siis kui tead mis see teeb [Changing author info](https://help.github.com/articles/changing-author-info/)
+
+## 14. tund
+1. Rühmatöö projektide esitlused, edasiarenduse funktsionaalsuste välja selgitamine
+1. Seminari mõtted
+```
+PHP kasutusvaldkonnad, võimalused, ohud. Käivitamise kohad ja moodused.
+Muutujad, nende paigutamine teksti. Valik, kordus. PHP HTMLi sees.
+Sisestus veebilehelt. Andmete liikumine serveri ja kliendi vahel.
+Meetodid get ja post, muutujad $_GET, $_POST, $_REQUEST.
+
+Lehe koostamine alamosadest. Käsud require, require_once ja include.
+Kataloogi sisu uurimine, selle kasutamine lehestiku loomisel.
+Andmete asendamine veebilehe koodis: htmlspecialchars, urlencode, stripslashes.
+
+Andmebaas veebilehestiku juures - võimalused ja probleemid. Tabeli loomine,
+andmete lisamine, muutmine, kustutamine. Tabeli muutmine. Päringud:
+järjestamine, filtreerimine.
+
+Andmete kuvamine andmebaasist veebilehele. Mitmesugused teegid, MySQL Improved.
+Andmete näitamine tabelina, ühe kirje kaupa vaatamine, kustutamine, muutmine.
+
+Graafilise redaktori lisamine veebilehele.
+Andmete ühendamine varem valminud kujundusega.
+Veebilehestiku lõikude hoidmine andmebaasis.
+
+Kaks seotud tabelit andmebaasis. Primaarvõti ja võõrvõti. Tabeleid ühendav
+SQL päring. Andmete sortimine ja otsimine veebilehe kaudu. Rippmenüü loomine
+valitava väärtuse sisestamiseks. Rippmenüüs soovitava rea ette kerimine.
+
+Koodi jagamine failide vahel. Funktsioonide paigutamine klassidesse.
+Lehemallid, lehe osade jagamine suurema rakenduse korral.
+
+Kasutaja autentimine. Sessioonimuutujad. Parooliräsi.
+
+Mitu-mitmele seose esitamine kolme andmetabeli abil.
+Keerukamad SQL-laused. Alampäringud väärtuse, loetelu ja tabeli asendajana. Loendamine,
+summa, keskmise, suurima, vähima leidmine. Kasutatavad funktsioonid tekstide
+ja aja tarbeks.  
+
+Failide üleslaadimine ning hoidmine serveris.
+Versioonihaldusvahend rühmatöö toetajana.
+```
 
 # Rühmatöö projektid
 
