@@ -269,15 +269,18 @@ Failide üleslaadimine ning hoidmine serveris.
 Versioonihaldusvahend rühmatöö toetajana.
 ```
 
+## Täiendavad teemad
+1. [PDF loomise näide](https://github.com/veebiprogrammeerimine-2015s/TCPDF), kasutades [TCPDF](http://www.tcpdf.org/examples.php) raamistikku 
+
 # Rühmatöö projektid
 
 [#1](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/1) **[Noorte tööbörs](https://github.com/Raunts26/php-ruhmatoo-projekt)** liikmed: [@Raunts26](https://github.com/Raunts26)  
 [#2](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/2) **[JOOKS24](https://github.com/karlmarkuswahlberg/php-ruhmatoo-projekt)** liikmed: [@karlmarkuswahlberg](https://github.com/karlmarkuswahlberg), [@katariinal](https://github.com/katariinal)  
 [#3](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/3) **[Multirootor](https://github.com/Jaanmk/php-ruhmatoo-projekt)** liikmed: [@jissepo](https://github.com/jissepo), [@Jaanmk](https://github.com/Jaanmk)  
 [#4](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/4) **[Mikid](https://github.com/p6hjanaba/php-ruhmatoo-projekt)** liikmed: [@p6hjanaba](https://github.com/p6hjanaba), [@oleloigu](https://github.com/oleloigu), [@aantsman](https://github.com/aantsman)  
-[#5](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/5) **[TelliMindTööandja](https://github.com/naaber/php-ruhmatoo-projekt)** liikmed: [@naaber](https://github.com/naaber), [@merit26](https://github.com/merit26)  
+[#5](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/5) **[NO PLAGIARISM](https://github.com/naaber/php-ruhmatoo-projekt)** liikmed: [@naaber](https://github.com/naaber), [@merit26](https://github.com/merit26)  
 [#6](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/6) **[PollNet](https://github.com/stenverkoop/php-ruhmatoo-projekt)** liikmed: [@rasmusreichardt](https://github.com/rasmusreichardt), [@stenverkoop](https://github.com/stenverkoop), [@Brandiit](https://github.com/Brandiit)  
-[#7](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/7) **[Rate my professor](https://github.com/raikolepik/php-ruhmatoo-projekt)** liikmed: [@raikolepik](https://github.com/raikolepik), [@evilyeti89](https://github.com/evilyeti89), [@Raunts26](https://github.com/Raunts26)  
+[#7](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/7) **[Hinda minu professorit](https://github.com/raikolepik/php-ruhmatoo-projekt)** liikmed: [@raikolepik](https://github.com/raikolepik), [@evilyeti89](https://github.com/evilyeti89), [@Raunts26](https://github.com/Raunts26)  
 [#8](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/8) **[Loomakliinik](https://github.com/jormkop/php-ruhmatoo-projekt)** liikmed: [@helenpuhu](https://github.com/helenpuhu), [@aivarus](https://github.com/aivarus), [@jormkop](https://github.com/jormkop)  
 [#9](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/9) **[Videolaenutus](https://github.com/Dralun/php-ruhmatoo-projekt)** liikmed: [@Dralun](https://github.com/Dralun), [@tom07140](https://github.com/tom07140)  
 [#10](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/10) **[Foorum](https://github.com/MartinViidik/php-ruhmatoo-projekt)** liikmed: [@MartinViidik](https://github.com/MartinViidik), [@jalalaba](https://github.com/jalalaba)  
