@@ -270,7 +270,10 @@ Versioonihaldusvahend rühmatöö toetajana.
 ```
 
 ## Täiendavad teemad
-1. [PDF loomise näide](https://github.com/veebiprogrammeerimine-2015s/TCPDF), kasutades [TCPDF](http://www.tcpdf.org/examples.php) raamistikku 
+1. [PDF loomise näide](https://github.com/veebiprogrammeerimine-2015s/TCPDF), kasutades [TCPDF](http://www.tcpdf.org/examples.php) raamistikku
+
+# Rühmatöö konsultatsiooniaeg
+Iga rühm saab valida ühe aja [Doodle](http://doodle.com/poll/xebb6tmim2hmdec8). Kui hätta jääd, kirjuta õppejõu meilile.
 
 # Rühmatöö projektid
 
