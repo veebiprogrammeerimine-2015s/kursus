@@ -297,7 +297,7 @@ Iga rühm saab valida ühe aja [Doodle](http://doodle.com/poll/xebb6tmim2hmdec8)
 [#18](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/18) **[Estonian muscle](https://github.com/kertkulp/php-ruhmatoo-projekt)** liikmed: [@kertkulp](https://github.com/kertkulp) ,[@janilv](https://github.com/janilv), [@ArthurDavid](https://github.com/ArthurDavid)  
 [#19](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/19) **[TECHMASTER](https://github.com/Max1mov/php-ruhmatoo-projekt)** liikmed: [@Max1mov](https://github.com/Max1mov), [@katariin](https://github.com/katariin), [@kuznetsovatatjana](https://github.com/kuznetsovatatjana)  
 [#20](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/20) **[KINGS OF COCKTAILS](https://github.com/kkkaur/php-ruhmatoo-projekt)** liikmed: [@kkkaur](https://github.com/kkkaur), [@koitkorela](https://github.com/koitkorela), [@TaunoLainevool](https://github.com/TaunoLainevool)  
-[#21](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/24) **[Bowling Broneerimine](https://github.com/harriru/php-ruhmatoo-projekt)** liikmed: [@harriru](https://github.com/harriru), [@marioru](https://github.com/marioru)
+[#21](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/24) **[Bowling Broneerimine](https://github.com/harriru/php-ruhmatoo-projekt)** liikmed: [@harriru](https://github.com/harriru), [@marioru](https://github.com/marioru) 
 [#22](https://github.com/veebiprogrammeerimine-2015s/php-ruhmatoo-projekt/pull/26) **[Kaubamaja](https://github.com/henrikromanenkov/php-ruhmatoo-projekt)** liikmed: [@henrikromanenkov](https://github.com/henrikromanenkov), [@merilint](https://github.com/merilint)
 
 ## Litsents
